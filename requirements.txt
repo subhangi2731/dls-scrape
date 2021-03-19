@@ -1,6 +1,6 @@
 future==0.15.2
 oauthlib==1.1.2
-Pillow==3.3.0
+Pillow==8.1.1
 pytesseract==0.1.6
 python-twitter==3.1
 requests==2.10.0
