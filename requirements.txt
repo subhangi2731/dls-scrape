@@ -5,4 +5,4 @@ pytesseract==0.1.6
 python-twitter==3.1
 requests==2.10.0
 requests-oauthlib==0.6.2
-spotipy==2.3.8
+spotipy==2.22.1
